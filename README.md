@@ -1,4 +1,1 @@
-Hello my name is Phemelo Phenyo Koswane an aspiring computer science and software engineer still doing his udergrad in Botswana
-i am interersted in machine learning and artificial intelligence.
-low key i also love web design
-i am will to be mentored and also colllaborate with anyone as long as i get to learn new stuff
+Master's student in Computer Science & Software Engineering 🎓 | Front-End Developer 💻 | Business Owner 🚀 | Passionate about Software Engineering, SDN Forensics, and Web Design. Always open to collaborations and mentorship opportunities to grow and innovate.
